@@ -6,7 +6,7 @@ To create the Word Guess Game using Node.js. By using three files Letter.js, Wor
 
 # Demo 
 
-    ![Demo](video/Demo-video-to-gif.gif)
+![Demo](video/Demo-video-to-gif.gif)
 
 # Concepts and Technologies 
 
